@@ -317,6 +317,19 @@ Buttons
 }
 
 /*
+=============================
+Images
+=============================
+*/
+
+.teaser img {
+	border-radius: 5px;
+	display: block;
+	margin-bottom: 22px;
+	max-width: 100%;
+}
+
+/*
 ==============================
 Home
 ==============================
@@ -380,7 +393,7 @@ Inline styling
 
 /*
 ==============================
-Inline styling
+Speaker
 ==============================
 */
 
@@ -390,5 +403,9 @@ Inline styling
 	margin-top: 88px;
 	padding: 22px 0;
 	text-align: center; 
+}
+
+.speaker{
+	margin-bottom: 44px;
 }
 
