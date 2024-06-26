@@ -1,0 +1,19 @@
+.tree p {
+  color: green;
+}
+
+.tree p.ornament {
+    color: red;
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn.danger {
+    background-color: red;
+}
+
+.btn.success {
+    background-color: greenyellow;
+}
